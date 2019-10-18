@@ -1,4 +1,4 @@
-package moe.cnkirito.consistenthash;
+package moe.cnkirito.consistenthash.lb;
 
 
 import java.security.MessageDigest;
@@ -6,6 +6,8 @@ import java.security.NoSuchAlgorithmException;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+import moe.cnkirito.consistenthash.Invocation;
+import moe.cnkirito.consistenthash.Server;
 
 /**
  * @author daofeng.xjf

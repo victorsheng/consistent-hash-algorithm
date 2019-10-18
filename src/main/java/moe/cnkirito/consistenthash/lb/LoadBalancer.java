@@ -1,6 +1,8 @@
-package moe.cnkirito.consistenthash;
+package moe.cnkirito.consistenthash.lb;
 
 import java.util.List;
+import moe.cnkirito.consistenthash.Invocation;
+import moe.cnkirito.consistenthash.Server;
 
 /**
  * @author daofeng.xjf

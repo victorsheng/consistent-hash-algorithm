@@ -1,4 +1,4 @@
-package moe.cnkirito.consistenthash;
+package moe.cnkirito.consistenthash.stragey;
 
 import java.nio.charset.Charset;
 
